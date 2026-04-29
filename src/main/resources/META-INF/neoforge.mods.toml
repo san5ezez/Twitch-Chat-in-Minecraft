@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "twitchchat"
+version = "1.0.0"
+displayName = "Twitch Chat Bridge"
+description = '''
+Выводит чат Twitch в чат Minecraft только у тебя.
+Команды: /twitch channel <канал>, /twitch start, /twitch stop
+'''
+
+[[dependencies.twitchchat]]
+    modId = "neoforge"
+    type = "required"
+    versionRange = "[21.1,)"
+    ordering = "NONE"
+    side = "CLIENT"
+
+[[dependencies.twitchchat]]
+    modId = "minecraft"
+    type = "required"
+    versionRange = "[1.21.1,)"
+    ordering = "NONE"
+    side = "CLIENT"
