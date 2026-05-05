@@ -3,6 +3,8 @@
 A Minecraft mod that displays your Twitch chat directly in the game.  
 Only you see the messages — other players on the server see nothing.
 
+language: EN[https://github.com/san5ezez/Twitch-Chat-in-Minecraft/blob/main/README.md] RU[https://github.com/san5ezez/Twitch-Chat-in-Minecraft/blob/main/README_ru.md]
+
 ---
 
 ## ✅ What is this for?
