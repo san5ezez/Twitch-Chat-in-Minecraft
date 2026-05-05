@@ -3,6 +3,8 @@
 Мод для Minecraft который выводит чат с Twitch прямо к тебе в игру.  
 Только ты видишь сообщения — другие игроки на сервере ничего не замечают.
 
+Language: (EN)[https://github.com/san5ezez/Twitch-Chat-in-Minecraft/blob/main/README.md] (RU)[https://github.com/san5ezez/Twitch-Chat-in-Minecraft/blob/main/README_ru.md]
+
 ---
 
 ## ✅ Для чего это нужно
